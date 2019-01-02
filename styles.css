@@ -84,11 +84,12 @@ font-family: 'Montserrat',sans-serif;
 
 h1, h2, h3, h4 {
   color: #333;
+  background-color: gray;
+  
 }
 
 p{
-  line-height: 1.5;
-  background-color: gray; 
+  line-height: 1.5; 
 }
 
 #footer {
