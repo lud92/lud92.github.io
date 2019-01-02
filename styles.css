@@ -82,16 +82,9 @@ font-family: 'Montserrat',sans-serif;
   border-radius: 50%;
 }
 
-h1, h2 {
-color: #333;
-background color: gray;
-}
-
-h3, h4 {
+h1, h2 h3, h4 {
   color: #333;
-  
-  
-}
+ }
 
 p{
   line-height: 1.5; 
