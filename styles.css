@@ -88,6 +88,9 @@ h1, h2, h3, h4 {
 
 p{
   line-height: 1.5;
+  background:transparent;
+  background-color: silver;
+  background-opacity: 20%
 }
 
 #footer {
